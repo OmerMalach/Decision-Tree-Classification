@@ -21,3 +21,6 @@ The tree in the project tries to predict if a certain hour of a certain day is g
 2. NOT busy hour - less or equal to 650
 
 Assignment instructions can be found in ex3.pdf
+
+# Credits
+[Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/00560/)
