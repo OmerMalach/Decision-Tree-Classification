@@ -17,7 +17,7 @@ This repo serves as a full implementation of a decision tree in Python using num
 The tree in the project tries to predict if a certain hour of a certain day is going to be **busy or NOT busy** in Seoul Bike rental.
 
 *Definitions:*
-1.A busy hour - over 650 rented bikes.
-2.NOT busy hour - less or equal to 650
+1. busy hour - over 650 rented bikes.
+2. NOT busy hour - less or equal to 650
 
 Assignment instructions can be found in ex3.pdf
