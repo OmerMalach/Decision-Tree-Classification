@@ -1,8 +1,8 @@
-:deciduous_tree: # Decision Tree Classifier :deciduous_tree:
+# :deciduous_tree: Decision Tree Classifier :deciduous_tree:
 
 This repo serves as a full implementation of a decision tree in Python using numpy, pandas, copy, scipy, pprint and tqdm.
 
-This implementation contains a few **main** function:
+## This implementation contains a few **main** function:
 
 1. build_tree : Creating a decision tree from a given csv file - the creation is done by calculating the overall_entropy at each node of the tree. We will split the data over and over til we reach a leaf (classification).
 
@@ -13,7 +13,7 @@ This implementation contains a few **main** function:
 4. classify_example : a method that tries to *predict* the calssification of record, that is not a part of the train or testing data, using a decision tree.
 
 
-**P.S**
+### **P.S**
 The tree in the project tries to predict if a certain hour of a certain day is going to be **busy or NOT busy** in Seoul Bike rental.
 
 *Definitions:*
